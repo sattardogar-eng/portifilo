@@ -1,0 +1,6 @@
+{
+  "name": "Kalon Atelier | Architecture & Built Environments",
+  "description": "Award-winning architectural studio and spatial atelier based in Copenhagen and Zurich, specializing in high-performance residential villas, cultural spaces, and adaptive reuse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
